@@ -1,5 +1,5 @@
 # Anime or Not?
-An NLP model that determines whether a plot is anime-worthy.
+An NLP model that determines whether a plot is anime enough.
 
 Play with it on [HuggingFace Space](https://huggingface.co/spaces/daspartho/anime-or-not)
 
