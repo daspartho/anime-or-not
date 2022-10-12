@@ -1,6 +1,8 @@
 # Anime or Not?
 An NLP model that determines whether a plot is anime enough.
 
+![](demo.png)
+
 Play with it on [HuggingFace Space](https://huggingface.co/spaces/daspartho/anime-or-not)
 
 # Data Collection
